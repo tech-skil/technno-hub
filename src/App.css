@@ -1,38 +1,40 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+:hover.titlehead{
+  border-radius: 5px;
+  transition-duration: 0.15s;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+::selection{
+  background-color: yellow;  /* Background color for select areas  */
+  color: rgb(0, 0, 0); /* Color for select areas  */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.bg-darkblue {
+  background-color: #000101; /* Background color for entair body  */
+}
+.propsbg{
+  background-color: rgb(0 14 35 / 22%); /* Background Color for TextForm  */
+  
+}
+.propsbg:focus {
+  /* background-color: rgb(0 14 35 / 42%);  */
+  background-color: rgba(48, 56, 68, 0.285);  /* Background Color for TextForm  on focus */
 }
 
-.App-link {
-  color: #61dafb;
+.bgprinary{
+  background-color: #61dafbaa; /* navbar background color on light mode */
+}
+.darknav{
+  background-color: rgba(0, 14, 35, 0.582);  /* navbar background color on dark mode */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about-section {
+  border: 1px solid #ccc;  
+  background-color: rgba(0, 14, 35, 0.26);  /* { Background color , padding , border  } ON dark mode */
+  padding: 1rem;
+}
+body::-webkit-scrollbar{
+  display: none; /* Default Scrollbar disabled */
 }
