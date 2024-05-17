@@ -26,7 +26,7 @@ function App() {
     setTimeout(()=>{
       setalert(null);
 
-    } ,11500 )
+    } ,1500 )
   }
   
   const toglemode = ()=>{
