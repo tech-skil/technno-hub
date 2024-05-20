@@ -1,6 +1,4 @@
-Creating a GitHub README file for your "Text Utils" project involves providing an overview of the project, installation instructions, usage details, and any other relevant information. Here's a comprehensive README template based on the information and image you provided:
 
----
 
 # Text Utils
 
