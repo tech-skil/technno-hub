@@ -45,10 +45,12 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Light Mode](path/to/light-mode-screenshot.png)
+![Light Mode](![image](https://github.com/tech-skil/technno-hub/assets/130985031/494eae99-7bf9-47f8-90df-aeb0d33fecbe)
+)
 *Light Mode Interface*
 
-![Dark Mode](path/to/dark-mode-screenshot.png)
+![Dark Mode](![image](https://github.com/tech-skil/technno-hub/assets/130985031/6a1cc5d5-cc43-496b-b4ab-ebf9af671007)
+)
 *Dark Mode Interface*
 
 ## Contributing
