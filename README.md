@@ -82,6 +82,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact [jayanthjay295@gmail.com](mailto:your-email@example.com).
 
-## Live link : https://techno-hub.netlify.app/
+## Live preview : https://techno-hub.netlify.app/
 
 ---
